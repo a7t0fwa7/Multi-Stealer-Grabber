@@ -1,11 +1,10 @@
-<h1 align="center">🎮 Multi Logger (Beta) 🎮</h1>
-<h3 align="center">Logs Discord Token, System specifiation, IP/MAC Adress and more</h3>
+<h1 align="center">🎮 Multi Logger 🎮</h1>
+<h3 align="center">Logs Discord Token, Passwords, System specifiation, IP/MAC Adress and more</h3>
 <h4 align="center">⭐ Don't forget to leave a star! ⭐</h4>
 
 ## Future plans:
 - Better settings
 - Steam Stealer
-- ~~Logging Browser History and Passwords~~
 - Record Video or Take Screenshot
 - Detailed Specs
 
